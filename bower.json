@@ -1,0 +1,26 @@
+{
+  "name": "jstrails-cli",
+  "description": "Command line tool to manipulate jsTrails specifications",
+  "main": "index.js",
+  "authors": [
+    "Chaitanya Chandurkar"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jsTrails",
+    "provenance",
+    "data",
+    "visualization",
+    "history",
+    "cli"
+  ],
+  "homepage": "https://github.com/cchandurkar/jsTrails-cli",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
