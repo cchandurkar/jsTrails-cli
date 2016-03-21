@@ -16,11 +16,4 @@
   ],
   "homepage": "https://github.com/cchandurkar/jsTrails-cli",
   "moduleType": [],
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
 }
